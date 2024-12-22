@@ -1,0 +1,10 @@
+[
+  {
+    "name": "NIST SP 800-171r2",
+    "url": "https://raw.githubusercontent.com/LeeMangold/OpenGRC-Data/refs/heads/main/standards/800-171r2.json"
+  },
+  {
+    "name": "NIST SP 800-171r3",
+    "url": "https://raw.githubusercontent.com/LeeMangold/OpenGRC-Data/refs/heads/main/standards/800-171r3.json"
+  }
+]
