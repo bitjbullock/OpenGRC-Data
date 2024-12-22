@@ -22,7 +22,7 @@
     "description": "The HIPAA Security Rule is a federal regulation that sets national standards for protecting individuals' electronic protected health information (ePHI). It mandates that covered entities and their business associates implement administrative, physical, and technical safeguards to ensure the confidentiality, integrity, and availability of ePHI. The rule is designed to be flexible and scalable, allowing organizations to assess their own risks and implement appropriate measures accordingly. Compliance with the Security Rule helps prevent unauthorized access, data breaches, and other security incidents that could compromise patient privacy and trust.",
     "version": "1",
     "url": "https://raw.githubusercontent.com/LeeMangold/OpenGRC-Data/refs/heads/main/standards/HIPAA-Security.json"
-  },  
+  },
   {
     "name": "CIS Critical Security Controls",
     "code": "CSCv8",
@@ -35,7 +35,7 @@
     "name": "NIST SP 800-53 Security Baseline (Low)",
     "code": "800-53(L)",
     "authority": "NIST",
-    "description": "The NIST Special Publication 800-53 Low Baseline is a set of federal security controls specifically designed for information systems with a low impact level in terms of confidentiality, integrity, and availability. This baseline, part of the broader NIST 800-53 framework, aims to provide a foundational level of security for systems where the potential damage from a security breach is considered limited or minor. The low baseline controls are tailored to be less stringent than those for moderate or high-impact systems, striking a balance between necessary security measures and resource allocation. These controls cover various aspects of information security such as access control, audit and accountability, incident response, and system and information integrity, but with a scope and depth commensurate with the\r\n            lower risk level. The NIST SP 800-53 Low Baseline is integral for organizations that need to comply with federal standards, offering a structured approach to securing systems while aligning with the overall risk management strategy.",",
+    "description": "The NIST Special Publication 800-53 Low Baseline is a set of federal security controls specifically designed for information systems with a low impact level in terms of confidentiality, integrity, and availability. This baseline, part of the broader NIST 800-53 framework, aims to provide a foundational level of security for systems where the potential damage from a security breach is considered limited or minor. The low baseline controls are tailored to be less stringent than those for moderate or high-impact systems, striking a balance between necessary security measures and resource allocation. These controls cover various aspects of information security such as access control, audit and accountability, incident response, and system and information integrity, but with a scope and depth commensurate with the\r\n            lower risk level. The NIST SP 800-53 Low Baseline is integral for organizations that need to comply with federal standards, offering a structured approach to securing systems while aligning with the overall risk management strategy.",
     "version": "5",
     "url": "https://raw.githubusercontent.com/LeeMangold/OpenGRC-Data/refs/heads/main/standards/800-53(Low).json"
   },
