@@ -24,6 +24,14 @@
     "url": "https://raw.githubusercontent.com/LeeMangold/OpenGRC-Data/refs/heads/main/standards/HIPAA-Security.json"
   },
   {
+    "name": "CIS Critical Security Controls",
+    "code": "CSCv8",
+    "authority": "CIS",
+    "description": "The 18 CIS Critical Security Controls represent a comprehensive and authoritative set of cybersecurity standards designed to provide organizations with a roadmap for effective cyber defense. These controls are meticulously structured to cover a wide array of security measures, ranging from asset and software inventory management to incident response and penetration testing. Developed by a consortium of experts, these controls prioritize a proactive and layered approach to cybersecurity, ensuring that every aspect of an organization's digital infrastructure is safeguarded. By addressing both preventive and responsive strategies, these controls serve as a foundational framework that organizations can implement to significantly reduce their vulnerability to cyber threats and bolster their overall security posture. This framework is not only practical but also adaptive, allowing for integration with existing security protocols and the evolving landscape of cyber threats.",
+    "version": "8",
+    "url": "https://raw.githubusercontent.com/LeeMangold/OpenGRC-Data/refs/heads/main/standards/CSCv8.json"
+  },
+  {
     "name": "NIST SP 800-53 Security Baseline (Low)",
     "code": "800-53(L)",
     "authority": "NIST",
