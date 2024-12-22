@@ -22,5 +22,29 @@
     "description": "The HIPAA Security Rule is a federal regulation that sets national standards for protecting individuals' electronic protected health information (ePHI). It mandates that covered entities and their business associates implement administrative, physical, and technical safeguards to ensure the confidentiality, integrity, and availability of ePHI. The rule is designed to be flexible and scalable, allowing organizations to assess their own risks and implement appropriate measures accordingly. Compliance with the Security Rule helps prevent unauthorized access, data breaches, and other security incidents that could compromise patient privacy and trust.",
     "version": "1",
     "url": "https://raw.githubusercontent.com/LeeMangold/OpenGRC-Data/refs/heads/main/standards/HIPAA-Security.json"
+  },  
+  {
+    "name": "CIS Critical Security Controls",
+    "code": "CSCv8",
+    "authority": "CIS",
+    "description": "The 18 CIS Critical Security Controls represent a comprehensive and authoritative set of cybersecurity standards designed to provide organizations with a roadmap for effective cyber defense. These controls are meticulously structured to cover a wide array of security measures, ranging from asset and software inventory management to incident response and penetration testing. Developed by a consortium of experts, these controls prioritize a proactive and layered approach to cybersecurity, ensuring that every aspect of an organization's digital infrastructure is safeguarded. By addressing both preventive and responsive strategies, these controls serve as a foundational framework that organizations can implement to significantly reduce their vulnerability to cyber threats and bolster their overall security posture. This framework is not only practical but also adaptive, allowing for integration with existing security protocols and the evolving landscape of cyber threats.",
+    "version": "8",
+    "url": "https://raw.githubusercontent.com/LeeMangold/OpenGRC-Data/refs/heads/main/standards/CSCv8.json"
+  },
+  {
+    "name": "NIST SP 800-53 Security Baseline (Low)",
+    "code": "800-53(L)",
+    "authority": "NIST",
+    "description": "The NIST Special Publication 800-53 Low Baseline is a set of federal security controls specifically designed for information systems with a low impact level in terms of confidentiality, integrity, and availability. This baseline, part of the broader NIST 800-53 framework, aims to provide a foundational level of security for systems where the potential damage from a security breach is considered limited or minor. The low baseline controls are tailored to be less stringent than those for moderate or high-impact systems, striking a balance between necessary security measures and resource allocation. These controls cover various aspects of information security such as access control, audit and accountability, incident response, and system and information integrity, but with a scope and depth commensurate with the\r\n            lower risk level. The NIST SP 800-53 Low Baseline is integral for organizations that need to comply with federal standards, offering a structured approach to securing systems while aligning with the overall risk management strategy.",",
+    "version": "5",
+    "url": "https://raw.githubusercontent.com/LeeMangold/OpenGRC-Data/refs/heads/main/standards/800-53(Low).json"
+  },
+  {
+    "name": "OpenGRC Demo Security Standard 1.0",
+    "code": "OpenGRC-1.0",
+    "authority": "OpenGRC",
+    "description": "OpenGRC Demo Security Standard 1.0 is a conceptual framework designed for demonstration purposes within the realm of cybersecurity. This standard encompasses a comprehensive set of guidelines and best practices aimed at fortifying digital infrastructure and safeguarding sensitive data. It integrates key principles across six critical domains: Legal, Ethical, Environmental, Governance, Risk Management, and Compliance (OpenGRC), offering a holistic approach to cybersecurity. Tailored for educational and demonstrative scenarios, this standard serves as a pedagogical tool to illustrate effective cybersecurity strategies. It emphasizes the importance of legal compliance, ethical hacking, environmental awareness in digital contexts, governance structures, proactive risk management, and adherence to compliance standards. The OpenGRC Demo Security Standard 1.0 is designed to be adaptable, allowing it to be applied in various hypothetical scenarios to demonstrate the impact and implementation of robust cybersecurity measures in a controlled environment.",
+    "version": "1",
+    "url": "https://raw.githubusercontent.com/LeeMangold/OpenGRC-Data/refs/heads/main/standards/OpenGRC-1.0"
   }
 ]
