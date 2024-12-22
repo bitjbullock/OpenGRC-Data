@@ -31,20 +31,5 @@
     "version": "8",
     "url": "https://raw.githubusercontent.com/LeeMangold/OpenGRC-Data/refs/heads/main/standards/CSCv8.json"
   },
-  {
-    "name": "NIST SP 800-53 Security Baseline (Low)",
-    "code": "800-53(L)",
-    "authority": "NIST",
-    "description": "The NIST Special Publication 800-53 Low Baseline is a set of federal security controls specifically designed for information systems with a low impact level in terms of confidentiality, integrity, and availability. This baseline, part of the broader NIST 800-53 framework, aims to provide a foundational level of security for systems where the potential damage from a security breach is considered limited or minor. The low baseline controls are tailored to be less stringent than those for moderate or high-impact systems, striking a balance between necessary security measures and resource allocation. These controls cover various aspects of information security such as access control, audit and accountability, incident response, and system and information integrity, but with a scope and depth commensurate with the\r\n            lower risk level. The NIST SP 800-53 Low Baseline is integral for organizations that need to comply with federal standards, offering a structured approach to securing systems while aligning with the overall risk management strategy.",
-    "version": "5",
-    "url": "https://raw.githubusercontent.com/LeeMangold/OpenGRC-Data/refs/heads/main/standards/800-53(Low).json"
-  },
-  {
-    "name": "OpenGRC Demo Security Standard 1.0",
-    "code": "OpenGRC-1.0",
-    "authority": "OpenGRC",
-    "description": "OpenGRC Demo Security Standard 1.0 is a conceptual framework designed for demonstration purposes within the realm of cybersecurity. This standard encompasses a comprehensive set of guidelines and best practices aimed at fortifying digital infrastructure and safeguarding sensitive data. It integrates key principles across six critical domains: Legal, Ethical, Environmental, Governance, Risk Management, and Compliance (OpenGRC), offering a holistic approach to cybersecurity. Tailored for educational and demonstrative scenarios, this standard serves as a pedagogical tool to illustrate effective cybersecurity strategies. It emphasizes the importance of legal compliance, ethical hacking, environmental awareness in digital contexts, governance structures, proactive risk management, and adherence to compliance standards. The OpenGRC Demo Security Standard 1.0 is designed to be adaptable, allowing it to be applied in various hypothetical scenarios to demonstrate the impact and implementation of robust cybersecurity measures in a controlled environment.",
-    "version": "1",
-    "url": "https://raw.githubusercontent.com/LeeMangold/OpenGRC-Data/refs/heads/main/standards/OpenGRC-1.0"
-  }
+
 ]
