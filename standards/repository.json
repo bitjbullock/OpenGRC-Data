@@ -33,7 +33,7 @@
   },
   {
     "name": "NIST SP 800-53 Security Baseline (Low)",
-    "code": "800-53(L)",
+    "code": "800-53 (Low)",
     "authority": "NIST",
     "description": "The NIST Special Publication 800-53 Low Baseline is a set of federal security controls specifically designed for information systems with a low impact level in terms of confidentiality, integrity, and availability. This baseline, part of the broader NIST 800-53 framework, aims to provide a foundational level of security for systems where the potential damage from a security breach is considered limited or minor. The low baseline controls are tailored to be less stringent than those for moderate or high-impact systems, striking a balance between necessary security measures and resource allocation. These controls cover various aspects of information security such as access control, audit and accountability, incident response, and system and information integrity, but with a scope and depth commensurate with the\r\n            lower risk level. The NIST SP 800-53 Low Baseline is integral for organizations that need to comply with federal standards, offering a structured approach to securing systems while aligning with the overall risk management strategy.",
     "version": "5",
