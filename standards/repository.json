@@ -53,7 +53,7 @@
     "authority": "AICPA",
     "description": "The Trust Services Criteria (TSC) 2017 are a set of professional attestation and advisory services based on a core set of principles and criteria that address the risks and opportunities of IT-enabled systems and privacy programs. The TSC 2017 are used by practitioners to evaluate and report on controls at service organizations that provide services to user entities when those controls are likely to be relevant to user entities' internal control over financial reporting.",
     "version": "2017",
-    "url": "https://raw.githubusercontent.com/LeeMangold/OpenGRC-Data/refs/heads/main/standards/TSC-2017.json"
+    "url": "https://raw.githubusercontent.com/LeeMangold/OpenGRC-Data/refs/heads/main/standards/TSC2017.json"
   }
   
 ]
