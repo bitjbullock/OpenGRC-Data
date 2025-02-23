@@ -54,6 +54,22 @@
     "description": "The Trust Services Criteria (TSC) 2017 are a set of professional attestation and advisory services based on a core set of principles and criteria that address the risks and opportunities of IT-enabled systems and privacy programs. The TSC 2017 are used by practitioners to evaluate and report on controls at service organizations that provide services to user entities when those controls are likely to be relevant to user entities' internal control over financial reporting.",
     "version": "2017",
     "url": "https://raw.githubusercontent.com/LeeMangold/OpenGRC-Data/refs/heads/main/standards/TSC2017.json"
+  },
+  {
+    "name": "CMMC 2.0 (L2)",
+    "code": "CMMC 2.0 - Level 2",
+    "authority": "DoD",
+    "description": "The CMMC Level 2 standard is designed to provide a baseline level of security for organizations that process, store, or transmit Controlled Unclassified Information (CUI). It establishes a minimum level of security controls that organizations must implement to protect CUI.",
+    "version": "2024",
+    "url": "https://raw.githubusercontent.com/LeeMangold/OpenGRC-Data/refs/heads/main/standards/CMMC%202.0%20-%20Level%202.json"
+  },
+  {
+    "name": "Defense Federal Acquisition Regulation Supplement (DFARS) 252.204",
+    "code": "DFARS 252.204",
+    "authority": "DoD",
+    "description": "DFARS 252.204-7012 is a critical clause that outlines cybersecurity requirements for contractors working with the Department of Defense. It mandates that these organizations implement specific security controls, largely based on NIST SP 800-171 standards, to protect covered defense information from unauthorized access and cyber threats. Contractors are also required to report any cyber incidents that might impact such information in a timely manner. Overall, the clause is designed to strengthen the cybersecurity posture across the defense industrial base by ensuring sensitive data is adequately safeguarded and any potential breaches are promptly addressed.",
+    "version": "2024",
+    "url": "https://raw.githubusercontent.com/LeeMangold/OpenGRC-Data/refs/heads/main/standards/DFARS%20252.204.json"
   }
   
 ]
