@@ -78,5 +78,5 @@
     "description": "This document recommends the Secure Software Development Framework (SSDF) – a core set of high-level secure software development practices that can be integrated into each SDLC implementation. Following these practices should help software producers reduce the number of vulnerabilities in released software, mitigate the potential impact of the exploitation of undetected or unaddressed vulnerabilities, and address the root causes of vulnerabilities to prevent future recurrences.",
     "version": "1.1",
     "url": "https://raw.githubusercontent.com/LeeMangold/OpenGRC-Data/refs/heads/main/standards/800-218.json"
-  },
+  }
 ]
