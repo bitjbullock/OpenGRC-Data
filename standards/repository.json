@@ -70,14 +70,5 @@
     "description": "DFARS 252.204-7012 is a critical clause that outlines cybersecurity requirements for contractors working with the Department of Defense. It mandates that these organizations implement specific security controls, largely based on NIST SP 800-171 standards, to protect covered defense information from unauthorized access and cyber threats. Contractors are also required to report any cyber incidents that might impact such information in a timely manner. Overall, the clause is designed to strengthen the cybersecurity posture across the defense industrial base by ensuring sensitive data is adequately safeguarded and any potential breaches are promptly addressed.",
     "version": "2024",
     "url": "https://raw.githubusercontent.com/LeeMangold/OpenGRC-Data/refs/heads/main/standards/DFARS%20252.204.json"
-  },
-  {
-    "name": "Secure Software Development Framework (SSDF)",
-    "code": "800-218",
-    "authority": "NIST",
-    "description": "This document recommends the Secure Software Development Framework (SSDF) – a core set of high-level secure software development practices that can be integrated into each SDLC implementation. Following these practices should help software producers reduce the number of vulnerabilities in released software, mitigate the potential impact of the exploitation of undetected or unaddressed vulnerabilities, and address the root causes of vulnerabilities to prevent future recurrences.",
-    "version": "1.1",
-    "url": "https://raw.githubusercontent.com/LeeMangold/OpenGRC-Data/refs/heads/main/standards/800-218.json"
-  },
-  
+  }
 ]
