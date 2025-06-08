@@ -24,14 +24,6 @@
     "url": "https://raw.githubusercontent.com/LeeMangold/OpenGRC-Data/refs/heads/main/standards/HIPAA-Security.json"
   },
   {
-    "name": "CIS Critical Security Controls",
-    "code": "CSCv8",
-    "authority": "CIS",
-    "description": "The 18 CIS Critical Security Controls represent a comprehensive and authoritative set of cybersecurity standards designed to provide organizations with a roadmap for effective cyber defense. These controls are meticulously structured to cover a wide array of security measures, ranging from asset and software inventory management to incident response and penetration testing. Developed by a consortium of experts, these controls prioritize a proactive and layered approach to cybersecurity, ensuring that every aspect of an organization's digital infrastructure is safeguarded. By addressing both preventive and responsive strategies, these controls serve as a foundational framework that organizations can implement to significantly reduce their vulnerability to cyber threats and bolster their overall security posture. This framework is not only practical but also adaptive, allowing for integration with existing security protocols and the evolving landscape of cyber threats.",
-    "version": "8",
-    "url": "https://raw.githubusercontent.com/LeeMangold/OpenGRC-Data/refs/heads/main/standards/CSCv8.json"
-  },
-  {
     "name": "NIST SP 800-53 Security Baseline (Low)",
     "code": "800-53 (Low)",
     "authority": "NIST",
@@ -78,5 +70,29 @@
     "description": "This document recommends the Secure Software Development Framework (SSDF) – a core set of high-level secure software development practices that can be integrated into each SDLC implementation. Following these practices should help software producers reduce the number of vulnerabilities in released software, mitigate the potential impact of the exploitation of undetected or unaddressed vulnerabilities, and address the root causes of vulnerabilities to prevent future recurrences.",
     "version": "1.1",
     "url": "https://raw.githubusercontent.com/LeeMangold/OpenGRC-Data/refs/heads/main/standards/800-218.json"
-  }
+  },
+  {
+    "name": "CIS Critical Security Controls - IG1",
+    "code": "CIS-CSC-IG1",
+    "authority": "Center for Internet Security (CIS)",
+    "description": "CIS Controls IG1 are basic cyber hygiene and represent essential cyber defense readiness for all enterprises.",
+    "version": "8.1",
+    "url": "https://raw.githubusercontent.com/LeeMangold/OpenGRC-Data/refs/heads/main/standards/CIS-CSC-IG1.json"
+},
+{
+    "name": "CIS Critical Security Controls - IG2",
+    "code": "CIS-CSC-IG2",
+    "authority": "Center for Internet Security (CIS)",
+    "description": "CIS Controls IG2 build upon IG1 and are for enterprises with sensitive client or operational information, requiring additional security.",
+    "version": "8.1",
+    "url": "https://raw.githubusercontent.com/LeeMangold/OpenGRC-Data/refs/heads/main/standards/CIS-CSC-IG3.json"
+},
+{
+    "name": "CIS Critical Security Controls - IG2",
+    "code": "CIS-CSC-IG2",
+    "authority": "Center for Internet Security (CIS)",
+    "description": "CIS Controls IG3 are for enterprises with critical infrastructure or assets, requiring the most comprehensive security measures.",
+    "version": "8.1",
+    "url": "https://raw.githubusercontent.com/LeeMangold/OpenGRC-Data/refs/heads/main/standards/CMMC%202.0%20-%20Level%202.json"
+},
 ]
