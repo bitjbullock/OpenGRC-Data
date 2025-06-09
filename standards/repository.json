@@ -85,14 +85,14 @@
     "authority": "Center for Internet Security (CIS)",
     "description": "CIS Controls IG2 build upon IG1 and are for enterprises with sensitive client or operational information, requiring additional security.",
     "version": "8.1",
-    "url": "https://raw.githubusercontent.com/LeeMangold/OpenGRC-Data/refs/heads/main/standards/CIS-CSC-IG3.json"
+    "url": "https://raw.githubusercontent.com/LeeMangold/OpenGRC-Data/refs/heads/main/standards/CIS-CSC-IG2json"
 },
 {
-    "name": "CIS Critical Security Controls - IG2",
-    "code": "CIS-CSC-IG2",
+    "name": "CIS Critical Security Controls - IG3",
+    "code": "CIS-CSC-IG3",
     "authority": "Center for Internet Security (CIS)",
     "description": "CIS Controls IG3 are for enterprises with critical infrastructure or assets, requiring the most comprehensive security measures.",
     "version": "8.1",
-    "url": "https://raw.githubusercontent.com/LeeMangold/OpenGRC-Data/refs/heads/main/standards/CMMC%202.0%20-%20Level%202.json"
+    "url": "https://raw.githubusercontent.com/LeeMangold/OpenGRC-Data/refs/heads/main/standards/CIS-CSC-IG3.json"
 }
 ]
