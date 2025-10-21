@@ -8,14 +8,6 @@
     "url": "https://raw.githubusercontent.com/LeeMangold/OpenGRC-Data/refs/heads/main/standards/800-171r2.json"
   },
   {
-    "name": "Baseline cyber security controls for small and medium organizations",
-    "code": "DGSI104",
-    "authority": "DGSC",
-    "description": "CAN/DGSI 104 specifies a minimum set of cyber security controls specifically designed for SMEs, typically with fewer than 500 employees. These safeguards play a crucial role in protecting sensitive information and empowering businesses to thrive amidst the ever-present challenges of cyber threats. ",
-    "version": "1:2024",
-    "url": "https://raw.githubusercontent.com/bitjbullock/OpenGRC-Data/refs/heads/main/standards/DGSI104.json"
-  },
-  {
     "name": "Protecting Controlled Unclassified Information in Nonfederal Systems and Organizations",
     "code": "800-171r3",
     "authority": "NIST",
