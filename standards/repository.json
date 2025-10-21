@@ -9,7 +9,7 @@
   },
   {
     "name": "Baseline cyber security controls for small and medium organizations",
-    "code": "DGSI104:Rev1:2024",
+    "code": "DGSI104",
     "authority": "DGSC",
     "description": "CAN/DGSI 104 specifies a minimum set of cyber security controls specifically designed for SMEs, typically with fewer than 500 employees. These safeguards play a crucial role in protecting sensitive information and empowering businesses to thrive amidst the ever-present challenges of cyber threats. ",
     "version": "1:2024",
