@@ -1,87 +1,104 @@
-[
-  {
-    "id": "5.2.2.3",
-    "name": "Automatically patch operating systems and applications",
-    "description": "The organization shall perform a risk assessment to determine whether to replace systems",
-    "reference_url": "https://dgc-cgn.org/product/can-dgsi-1042021-rev-12024/",
-    "category": "Baseline controls"
-  },
-  {
-    "id": "5.4.3.1",
-    "name": "Implement and maintain a secure configuration process",
-    "description": "There are no further requirements apart from those stated as Level 1.",
-    "category": "Baseline controls"
-  },
-  {
-    "id": "5.6.2.7",
-    "name": "Backup and encrypt data",
-    "description": "The organization shall regularly test critical backups for security and integrity.",
-    "category": "Baseline controls"
-  },
-  {
-    "id": "5.6.2.8",
-    "name": "Backup and encrypt data",
-    "description": "The organization shall use a sampling of backup data to test and verify recovery procedures at",
-    "category": "Baseline controls"
-  },
-  {
-    "id": "5.6.3.1",
-    "name": "Backup and encrypt data",
-    "description": "There are no further requirements apart from those stated as Level 1.",
-    "category": "Baseline controls"
-  },
-  {
-    "id": "6.1.2.1",
-    "name": "Secure mobility",
-    "description": "The organization using mobile devices (i.e., cellphones) shall educate users to:",
-    "category": "Operating environment controls"
-  },
-  {
-    "id": "6.1.3.1",
-    "name": "Secure mobility",
-    "description": "The organization using mobile devices (i.e., cellphones) shall decide on an ownership model for",
-    "category": "Operating environment controls"
-  },
-  {
-    "id": "6.1.3.2",
-    "name": "Secure mobility",
-    "description": "The organization using mobile devices (i.e., cellphones) shall:",
-    "category": "Operating environment controls"
-  },
-  {
-    "id": "6.3.2.1",
-    "name": "Secure websites",
-    "description": "The organization shall demonstrate awareness of the OWASP Top 10 risks.",
-    "category": "Operating environment controls"
-  },
-  {
-    "id": "6.3.3.1",
-    "name": "Secure websites",
-    "description": "The organization shall remediate the high and medium OWASP Top 10 risks (for primary",
-    "category": "Operating environment controls"
-  },
-  {
-    "id": "6.3.3.2",
-    "name": "Secure websites",
-    "description": "The organization shall define the OWASP ASVS level they need to meet for each of their",
-    "category": "Operating environment controls"
-  },
-  {
-    "id": "6.4.2.1",
-    "name": "Secure portable media",
-    "description": "Organizations using portable media shall mandate the sole use of organization-owned secure",
-    "category": "Operating environment controls"
-  },
-  {
-    "id": "6.4.3.1",
-    "name": "Secure portable media",
-    "description": "The organization using portable media shall:",
-    "category": "Operating environment controls"
-  },
-  {
-    "id": "6.6.2.1",
-    "name": "Computer Security Log Management",
-    "description": "For this section, there are no Level 1 requirements. All requirements are considered Level 2.",
-    "category": "Operating environment controls"
-  }
-]
+{
+  "name": "DGSI 104",
+  "description": "Converted DGSI 104 controls for OpenGRC import",
+  "items": [
+    {
+      "code": "5.2.2.3",
+      "name": "Automatically patch operating systems and applications",
+      "description": "The organization shall perform a risk assessment to determine whether to replace systems",
+      "category": "Baseline controls",
+      "reference_url": "https://dgc-cgn.org/product/can-dgsi-1042021-rev-12024/"
+    },
+    {
+      "code": "5.4.3.1",
+      "name": "Implement and maintain a secure configuration process",
+      "description": "There are no further requirements apart from those stated as Level 1.",
+      "category": "Baseline controls",
+      "reference_url": ""
+    },
+    {
+      "code": "5.6.2.7",
+      "name": "Backup and encrypt data",
+      "description": "The organization shall regularly test critical backups for security and integrity.",
+      "category": "Baseline controls",
+      "reference_url": ""
+    },
+    {
+      "code": "5.6.2.8",
+      "name": "Backup and encrypt data",
+      "description": "The organization shall use a sampling of backup data to test and verify recovery procedures at",
+      "category": "Baseline controls",
+      "reference_url": ""
+    },
+    {
+      "code": "5.6.3.1",
+      "name": "Backup and encrypt data",
+      "description": "There are no further requirements apart from those stated as Level 1.",
+      "category": "Baseline controls",
+      "reference_url": ""
+    },
+    {
+      "code": "6.1.2.1",
+      "name": "Secure mobility",
+      "description": "The organization using mobile devices (i.e., cellphones) shall educate users to:",
+      "category": "Operating environment controls",
+      "reference_url": ""
+    },
+    {
+      "code": "6.1.3.1",
+      "name": "Secure mobility",
+      "description": "The organization using mobile devices (i.e., cellphones) shall decide on an ownership model for",
+      "category": "Operating environment controls",
+      "reference_url": ""
+    },
+    {
+      "code": "6.1.3.2",
+      "name": "Secure mobility",
+      "description": "The organization using mobile devices (i.e., cellphones) shall:",
+      "category": "Operating environment controls",
+      "reference_url": ""
+    },
+    {
+      "code": "6.3.2.1",
+      "name": "Secure websites",
+      "description": "The organization shall demonstrate awareness of the OWASP Top 10 risks.",
+      "category": "Operating environment controls",
+      "reference_url": ""
+    },
+    {
+      "code": "6.3.3.1",
+      "name": "Secure websites",
+      "description": "The organization shall remediate the high and medium OWASP Top 10 risks (for primary",
+      "category": "Operating environment controls",
+      "reference_url": ""
+    },
+    {
+      "code": "6.3.3.2",
+      "name": "Secure websites",
+      "description": "The organization shall define the OWASP ASVS level they need to meet for each of their",
+      "category": "Operating environment controls",
+      "reference_url": ""
+    },
+    {
+      "code": "6.4.2.1",
+      "name": "Secure portable media",
+      "description": "Organizations using portable media shall mandate the sole use of organization-owned secure",
+      "category": "Operating environment controls",
+      "reference_url": ""
+    },
+    {
+      "code": "6.4.3.1",
+      "name": "Secure portable media",
+      "description": "The organization using portable media shall:",
+      "category": "Operating environment controls",
+      "reference_url": ""
+    },
+    {
+      "code": "6.6.2.1",
+      "name": "Computer Security Log Management",
+      "description": "For this section, there are no Level 1 requirements. All requirements are considered Level 2.",
+      "category": "Operating environment controls",
+      "reference_url": ""
+    }
+  ]
+}
